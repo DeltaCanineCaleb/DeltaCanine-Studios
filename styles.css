@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(50,150,75);
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    overflow-x: hidden;
+}
+ul {
+    text-align: left;
+}
+
+.top_header {
+    font-size: 60px;
+    background-color: rgb(75, 125, 175);
+}
+.team_portrait {
+    max-height: 40vh;
+}
+.icon_needs_space {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.update_box {
+    height: 75vh;
+    overflow-y: scroll;
+    text-align: left;
+}
+.light_box {
+    background-color: rgb(80,180,105);
+    padding: 15px;
+    vertical-align: middle;
+}
+.dark_box {
+    background-color: rgb(20,120,45);
+    padding: 15px;
+    vertical-align: middle;
+}
+.center_text {
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
