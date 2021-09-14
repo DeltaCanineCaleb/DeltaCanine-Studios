@@ -8,6 +8,9 @@ body {
 ul {
     text-align: left;
 }
+h1, h2, h3 {
+    color: white;
+}
 
 .top_header {
     font-size: 60px;
