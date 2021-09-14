@@ -1,7 +1,7 @@
 body {
     background-color: rgb(50,150,75);
     color: rgb(200,240,220);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Verdana';
     text-align: center;
     overflow-x: hidden;
 }
@@ -12,6 +12,7 @@ ul {
 .top_header {
     font-size: 60px;
     background-color: rgb(75, 125, 175);
+    color: rgb(200,220,240);
 }
 .team_portrait {
     max-height: 40vh;
