@@ -42,6 +42,9 @@ h1, h2, h3 {
 .center_text {
     text-align: center;
 }
+.github {
+    font-size: smaller;
+}
 
 a:link, a:visited {
     color: white;
